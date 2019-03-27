@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 {% highlight ruby %}
-是改做一些改变的时候了！
+是该做一些改变的时候了！
 {% endhighlight %}
 
 
