@@ -10,4 +10,4 @@ categories: jekyll update
 {% endhighlight %}
 
 
-![路飞](lufeiwatch.jpeg)
+![路飞]("lufeiwatch.jpeg")
