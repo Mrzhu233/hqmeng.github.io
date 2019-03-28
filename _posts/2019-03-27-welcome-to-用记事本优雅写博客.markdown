@@ -10,4 +10,4 @@ categories: jekyll update
 {% endhighlight %}
 
 
-![路飞](img/lufeiwatch.jpeg)
+![路飞]({{ site.url }}/img/lufeiwatch.jpeg)
